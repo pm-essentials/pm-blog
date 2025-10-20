@@ -101,7 +101,29 @@ Since we spend every day with our product, product managers tend to have a lot o
 
 When we communicate our roadmap externally it's important, in as few words as possible, to describe what the users will get out of the product, rather than describe what the product is. If you are having trouble narrowing it down, think about one or two use cases that people are doing now, or short of that, what your anchor customers plan to do with the feature. It's ok if you don't explain all of the possibilities of a feature in a roadmap. People will figure it out. For now, just make sure that people get a gist for what the feature is _for_. They'll figure out the rest later, or you can fill in the gaps later with continued product marketing.
 
-For inspiration, look no further than the [Jordan Belfort's explanation of how to sell a pen][sell-me-this-pen] "now, the pen is a like a euphemism for any product." OK, go make a slide!
+Try to avoid creating a, "roadmap slide." People ask for this all the time, but I feel that, without context, a single slide doesn't accomplish much, unless it's to be included in an overview deck along with dozens of other similarly-formatted slides. Instead, I try to create a slide deck which helps facilitate a roadmap discussion.
+
+> I once took over as director of engineering for a service where the founders had selected all of the infrastructure themselves. Our team was having terrible trouble with the storage arrays, which the founders had selected because they had excellent ATA over Ethernet performance(!) For months we struggled with their support team till I escalated. "We're running some of the Internet's most popular services on your storage, but we're not getting the performance we expect." To my surprise, they were dismayed, "You want low-latency performance for high performance websites? We've been positioning our product as a tape library alternative. We do care about performance, but totally different than what you care about."
+
+A roadmap meeting is a place to articulate your product's general direction by sharing your track-record so far and where you are planning to go. The goal of the meeting is for the user to decide if their needs are aligned with your goals, and to feel special that they can give you feedback on what's coming soon, to better suit their needs. When everything works well, a roadmap meeting turns into an opportunity to identify anchor customers, and cite them as high-likelihood to adopt the product in the future.
+
+[TODO] Here's a progression that has worked well for me in the past.
+
+[TODO] a tweet from an actual customer, "... upgrades in prod on a holiday weekend .. That has never happened in my entire career ... Just watched the pipes do what they do"
+
+The basic organization of the roadmap area of the deck breaks things down into this progression, because not only is Biz Dev often pretty bad at Product Management, but the customers we're talking to usually aren't used to thinking this way. If you walk them through it, usually I've gotten a pretty positive response:
+
+### Simple Roadmap Story
+1. Here's a slide or two to make sure y'all remember the high-level value of our product (you spend less time doing something, something becomes self service, you can do something you were never able to do before, etc). We all agree that's why you're interested in the product overall, right?
+2. Here's a list of your favorite features that you're dying to ask me about. I have them all cataloged, I get it. (So calm down, I'll get you there. But I'm not going to put dates next to each of these items.)
+3. Here's how I cluster all these random "requirements" into themes; ie, areas of investment that our team concentrates year-over-year. (This is the alignment portion, the Product over all is going --> this way, is that what you want, too?)
+4. Here's a wall of words that shows you how much thinking we've put into the product already. These themes break down into many dozens of features each; so please stare at this wall as an example of how much thinking we do (so that you'll pay us a lot of money)
+5. And here's the customer tweet, this is what you want too, right? This should reflect/remind the value statement covered in point #1 (I forgot to show you this slide)
+6. [and finally a lightweight version of the kanban roadmap, like I drew on the whiteboard, organized by investment theme]
+
+Hope that helps, hope that makes sense.
+
+For inspiration, look no further than the [Jordan Belfort's explanation of how to sell a pen][sell-me-this-pen] "now, the pen is a like a euphism for any product."
 
 # One More Thing - A Note About Prioritization
 Were I king of all product managers, I would make the following phrases illegal, “Customer Requirement,” “Must Have,” and P1 through P4. All of these things are sort of a cop-out for Product Management to shovel scope onto the product development team without regard to capacity.
