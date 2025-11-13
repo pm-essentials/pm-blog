@@ -39,3 +39,4 @@ Ultimately, I think balanced leadership teams are what management imagines is ha
 
 
 [1]:	product-manager-identity.md "Product Manager Identity"
+[Janice-Fraser-balanced-teams]: https://www.slideshare.net/slideshow/2015-balanced-teams-product-management-engineering/50777417 "2015 Balanced Teams: Product Management, Engineering, UX Design"
