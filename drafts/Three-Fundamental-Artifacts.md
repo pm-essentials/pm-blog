@@ -8,7 +8,7 @@ Disclaimer: Many will misinterpret "planning," as commitment. Try to avoid that 
 
 > I've had customers get in my face and demand delivery dates. I refuse! I tell them that, as a product manager, if I commit to a date today, I'd probably be lying to them. Instead, I've committed to keeping communication frequent and transparent. Turning this around, I tell them that by keeping them involved, they'll have the ability to affect the roadmap. When the feeling is right, I've also invited them to be anchor customers, invoving them in any pre-release programs, to ensure that the solution will work for them day 1. Address the root anxieties about dates (there's some schedule of events that are in motion, or commitments they have made internally) so that they're confident that what we deliver won't make them look foolish.
 
-Don't commit dates unless your boss says you have to.
+Don't commit dates unless your boss says you have to. If your boss (or program manager, or customer team, whomever) insists, there are some great suggestions in this video: [Bad Estimates Destroy Careers (Here's What to Say Instead)][bad-estimates], The Serious CTO
 
 OK, disclaimer aside, let's dive in:
 <a name="quarterly-cycle"></a>
@@ -93,6 +93,7 @@ The quarterly cycle starts with the essential basics of product direction and qu
 
 One more thing: This process might be the key to scaling your product management team. Doing planning and execution at the same time is a lot of work. That means that even if the product manager partners with peers as much as possible, and works as many hours as possible, the scope of the projects will necessarily be limited. I’ve had very brief periods of time where I’ve been fortunate to have been paired with another PM, both of us focusing on a single product area. That has allowed us to trade off: one PM in planning mode, doing research, talking with customers, the while another is in execution mode, working directly with the team on implementation.
 
+[bad-estimates]: https://youtu.be/2-QCqbMsPDc?si=Cf3QO0JSyiFmpFaV "Bad Estimates Destroy Careers (Here's What to Say Instead)"
 [3-validation]:	Three-Types-of-Validation.md "Three Types of Validation"
 [pm-recognition]:    PM-Recognition-and-Evaluation.md "PM Recognition and Evaluation"
 [100-days]:	Your-First-100-days.md "Your First 100 Days"
