@@ -4,17 +4,17 @@
 
 </center>
 
-Welcome to my Product Management Practices blog! Read this article first to understand the goals of these posts.
+Welcome to my Product Management Essentials blog! Read this article first to understand the goals of these posts.
 
 In my career, I've come across many people with the title, "product manager," that don't have a clear idea of what the basic job responsibilities are, nor activities will make them the most successful.
 
 During my first five years as a Product Manager at Pivotal Software, I worked on databases. I began to believe that I was typecast, that I was building a subject matter expertise as my personal ‘moat,’ which would guide my career until retirement. That didn't happen. I found myself as a product manager in an area where databases are not relevant. I was pleased to learn that many of the skills I’d learned translate from one domain to another pretty easily. If I hadn’t lost everything I may never have discovered this.
 
-The PM Practices blog covers the fundamental, universal skills I’ve learned while a part of various teams across 10 years of product management. My goal is to generalize what I’ve learned so that it can benefit others. While most of my experience revolves around enterprise software, it doesn’t mean that these practices can’t be applied elsewhere. I’ve used similar techniques in e-commerce, consumer products, open source and even in support of silicon chips.
+The PM Essentials blog covers the fundamental, universal skills I’ve learned while a part of various teams across 10 years of product management. My goal is to generalize what I’ve learned so that it can benefit others. While most of my experience revolves around enterprise software, it doesn’t mean that these practices can’t be applied elsewhere. I’ve used similar techniques in e-commerce, consumer products, open source and even in support of silicon chips.
 
 What I learned from Pivotal was foundational. Since Pivotal, I’ve partnered with many fabulous partners from various backgrounds: engineering, sales, design, program management, etc. The best continually challenged our team to do better. By working with them, we've identified activities which are tremendously useful. This blog uses those experiences as inspiration, and evolves from those starting points.
 
-The name of this blog is, “Product Management Practices,” not, “New Ideas in Product Management,” or, “The Cutting Edge of Product Management,” etc., because I wanted to document the core activities and work product of a product manager that (to me) seem to be applicable across many industries and many types of products. This is my own framing of the problem. There are lots of great ways to come up to speed on product management quickly.
+The name of this blog is, “Product Management Essentials,” not, “New Ideas in Product Management,” or, “The Cutting Edge of Product Management,” etc., because I wanted to document the core activities and work product of a product manager that (to me) seem to be applicable across many industries and many types of products. This is my own framing of the problem. There are lots of great ways to come up to speed on product management quickly.
 
 If you have:
 - Seven minutes: Quick! Go read [Principles to Effective Story Writing: The Pivotal Labs Way][1]. Ryan Jones is the person who taught me how to write stories properly, and it changed my life. You have my permission to ignore the INVEST model if you want.
@@ -30,7 +30,7 @@ Other resources:
 
 ## Reading Order
 
-- [Welcome to Product Management Practices][Welcome]
+- [Welcome to Product Management Essentials][Welcome]
 - [Product Manager in 30 Seconds][pm-in-30]
 
 Here are the most immediately useful posts that you can put into practice today:
@@ -71,7 +71,7 @@ Thanks for reading!
 [overloaded-pm-image]:  /images/overloaded-PM.png "Onsi F's rendering of the overloaded PM"
 [hard-things]:  https://a16z.com/books/the-hard-thing-about-hard-things/
 [pm-kids-book]: https://mascotbooks.com/product/what-do-product-managers-do-a-primer-for-aspiring-pms-of-all-ages/
-[welcome]:  Welcome-to-Product-Management-Practices.md
+[welcome]:  Welcome-to-Product-Management-Essentials.md
 [pm-in-30]: Product-Manager-in-30-Seconds.md
 [3-validation]:  Three-Types-of-Validation.md
 [3-artifacts]:  Three-Fundamental-Artifacts.md
@@ -88,5 +88,5 @@ Thanks for reading!
 [6]:    https://alumni-codex.github.io/ "Pivotal Alumni Codex"
 [7]:	https://www.hashicorp.com/en/how-hashicorp-works/articles/writing-practices-and-culture
 [8]:    https://janicefraser.com/farther-faster-book
-[9]:	https://github.com/pm-practices/pm-blog?tab=readme-ov-file#contributing "pm-blog contributing instructions"
-[10]:	https://github.com/pm-practices/pm-blog "pm-blog repo"
+[9]:	https://github.com/pm-essentials/pm-blog?tab=readme-ov-file#contributing "pm-blog contributing instructions"
+[10]:	https://github.com/pm-essentials/pm-blog "pm-blog repo"
