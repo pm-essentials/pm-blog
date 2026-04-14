@@ -95,7 +95,7 @@ Tool: Slide deck
 
 The first two are your planning tools. You use them with your teams and your stakeholders to set plans in motion. They've got a ton of confidential information in them, account for all sorts of internal dysfunction, etc.
 
-There lots of resources on [outcome oriented roadmaps][outcome-roadmaps]. It took me a long time to understand, but I agree with this approach now. Many people won't care about features at the roadmap level. If you're frustrated by that, because either you don't know the outcome a feature enables, or you think the feature enables, "so many outcomes it feels wrong to narrow it down to just one or two," then please consider my argument.
+There lots of [resources][product-roadmaps] on [outcome oriented roadmaps][outcome-roadmaps]. It took me a long time to understand, but I agree with this approach now. Many people won't care about features at the roadmap level. If you're frustrated by that, because either you don't know the outcome a feature enables, or you think the feature enables, "so many outcomes it feels wrong to narrow it down to just one or two," then please consider my argument.
 
 Since we spend every day with our product, product managers tend to have a lot of pride in what the team has built, "It slices, it dices, it even makes julienne fries!" Most users won't care about your product as much as you do. They probably wish they didn't need it at all. They are willing to spend money, or in other ways invest in your product beacause it's better than choosing to solve the problem on their own. Whatever that problem is, they care most about the outcome that it provides, and how easily they can access that value. (And that it's durable, secure, and supportable.) 
 
@@ -133,5 +133,6 @@ Instead, I wish product management continually provided a list, “Here is a pri
 It is a fundamental requirement of the product management function to provide a list of prioritized needs. Product management isn’t responsible for velocity, though. The only thing we are responsible for is analyzing the **impact** of the schedule, and escalating to leadership. “We are tracking to deliver X, Y, and Z. Without I, J, and K, we won’t be able to make these sales targets. If you want to continue to grow at the desired rate, work with the product development team to figure out how to increase velocity.”
 
 [three-artifacts]:	Three-Fundamental-Artifacts.md "Three Fundamental Artifacts"
+[product-roadmaps]: https://www.producttalk.org/product-roadmaps/
 [outcome-roadmaps]: https://productschool.com/blog/product-strategy/outcome-based-roadmap
 [sell-me-this-pen]:  https://youtu.be/iawLbvCyGKw?si=9sWuQvYdIxexLnxR
