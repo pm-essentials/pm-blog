@@ -1,13 +1,9 @@
 # The Role of Product Manager
 
-I often ask people how, in 30 seconds, would they describe what a product manager does in a way that can be understood by both technical and non-technical people. I get a wide variety of answers, it's super fascinating.
+What do most people say if asked to describe what a product manager does in 30 seconds? I get a wide variety of answers. There are many ways to manage product; some are more effective than others. While I don't judge other successful PMs, I have an approach to product management that I know yields results. Here's my thirty second view of what a product manager does. What do you think? Does this ring true for you, does it miss major points, or I have got something fundamentally wrong?
 
-One of the motivations of this blog is to acknowledge that there are many ways to manage product; and some are more effective than others. While I don't judge other successful PMs, I do have experience with an approach to product management that I know yields results.
-
-Here's my thirty second view of what a product manager does. What do you think? Does this ring true for you, does it miss major points, or I have got something fundamentally wrong?
-
-## Thirty-second pitch
-> The product manager is a member of the team who has a different set of skills and activities. The PM doesn't write code. The PM's primary activity is to collect evidence which determines if the product team is working on the most important thing at any given moment. That's a full time job, because that evidence comes from talking with a wide variety of people: existing and potential customers, business partners and even stakeholders within the organization. The product manager shares the insights they've learned with the team, so that collectively, they can make informed decisions about the future of the product.
+## Thirty-Second Pitch
+> The product manager is a member of the team with a different set of skills and daily activities. The PM doesn't write code; they're not sales or marketing. The PM's job is to ensure the team is working on the most important thing. They accomplish that by collecting data from a variety of sources, analyzing the feedback, and constantly evaluating if the direction of the product is sound. That's a full time job, because evidence comes from talking with a wide variety of people: existing and potential customers, market analysts, business partners and stakeholders within the organization. The product manager shares the insights they've learned with the team, so that they can make informed decisions about the future of the product.
 
 This definition only works when there is a reasonable ratio of product manager to engineers. If there are too many engineers, then there are too many initiatives for a PM to track, and they'll fall behind. In those cases, it's necessary for the PM to level up their work. Unfortunately, most of my experiences doing that have resulted in poor results.
 
