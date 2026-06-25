@@ -45,9 +45,9 @@ kanban
 ```
 
 </center>
-These weights are very generic. You can use them as-is, or you need to choose what formula makes sense for you. In a recent example from my history, the ranking of an OSS model on a leaderboard affects its prioritization - we only have so much capacity to optimize models, we might as well spend that time working on the most popular.
+These weights are very generic. You can use them as-is, or you can choose what formula makes sense for you. In a recent example from my history, the ranking of an OSS model on a leaderboard affects its prioritization - we only have so much capacity to optimize models, we might as well spend that time working on the most popular.
 
-Example ping pong supplier:
+### Example ping pong supplier
 
 | Problem | **4x** Strategic initiatives | **3x** Customer commitments | **2x** Impact | **1x** Improves user adoption | Priority |
 |---------|---------------------|-------------------------|-------------------------------|------------------------|----------|
