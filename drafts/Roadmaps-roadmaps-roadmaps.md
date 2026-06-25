@@ -141,7 +141,7 @@ Here's a progression that has worked well for me in the past:
 
 Tweet from an actual customer
 
-        "... upgrades in prod on a holiday weekend .. That has never happened in my entire career ... Just watched the pipes do what they do"
+        "Robots just completed their first full production run without supervision. Night shift. Zero defects. I'm not used to manufacturing going THIS smoothly."
 
 ### Example Roadmap Slide
 | Investment Theme | Previous Release | In Development | Next Quarter | Future |
