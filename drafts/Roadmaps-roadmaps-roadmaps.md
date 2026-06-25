@@ -21,16 +21,7 @@ Quantitative roadmap should be Product Manager Lesson #1. Good product managers 
 
 Enter the quantitative roadmap. This allows you to apply weights to desires, based on an easily-understood formula, so that consumers of the roadmap can see the care and effort the PM has put into assembling an impartial scoring of all of the possible initiatives. The resulting ranking gives us all a good idea of what the most important things could be, but more importantly, allow us to discard the many things with relatively low scores. As mentioned in the book Farther, Faster and with Far Less Drama, giving ourselves permission not to constantly reanalyze low-priority items frees us to focus on the most important things.
 
-Example ping pong supplier:
-
-| Problem | **4x** Strategic initiatives | **3x** Customer commitments | **2x** Impact | **1x** Improves user adoption | Priority |
-|---------|---------------------|-------------------------|-------------------------------|------------------------|----------|
-| Digital score-keeping display | 0 | 0 | 1 | 0 | 2 |
-| Competition-level table surfaces | 0 | 2 | 0 | 0 | 6 |
-| Paddle surfaces have 5 levels of stickiness | 0 | 0 | 3 | 0 | 6 |
-| Paddles locatable via AirTag integration | 2 | 0 | 0 | 0 | 8 |
-| Rules of Ping Pong introductory video | 0 | 0 | 0 | 2 | 2 |
-| Internet-connected table tracks # of ball-hits per rally | 0 | 0 | 2 | 0 | 4 |
+<center>
 
 ```mermaid
 kanban
@@ -53,7 +44,21 @@ kanban
     never["0: Never"]
 ```
 
+</center>
 These weights are very generic. You can use them as-is, or you need to choose what formula makes sense for you. In a recent example from my history, the ranking of an OSS model on a leaderboard affects its prioritization - we only have so much capacity to optimize models, we might as well spend that time working on the most popular.
+
+Example ping pong supplier:
+
+| Problem | **4x** Strategic initiatives | **3x** Customer commitments | **2x** Impact | **1x** Improves user adoption | Priority |
+|---------|---------------------|-------------------------|-------------------------------|------------------------|----------|
+| Digital score-keeping display | 0 | 0 | 1 | 0 | 2 |
+| Competition-level table surfaces | 0 | 2 | 0 | 0 | 6 |
+| Paddle surfaces have 5 levels of stickiness | 0 | 0 | 3 | 0 | 6 |
+| Paddles locatable via AirTag integration | 2 | 0 | 0 | 0 | 8 |
+| Rules of Ping Pong introductory video | 0 | 0 | 0 | 2 | 2 |
+| Internet-connected table tracks # of ball-hits per rally | 0 | 0 | 2 | 0 | 4 |
+
+
 
 ## Kanban-style Roadmap
 
