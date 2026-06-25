@@ -128,6 +128,14 @@ A roadmap meeting is a place to articulate your product's general direction by s
 
 Here's a progression that has worked well for me in the past:
 
+### Example Tweet
+
+Tweet from an actual customer:
+
+```
+"Robots just completed their first full production run without supervision. Night shift. Zero defects. I'm not used to manufacturing going THIS smoothly."
+```
+
 ### Example Investment Themes Slide
 
 | Investment Theme | Description |
@@ -137,12 +145,6 @@ Here's a progression that has worked well for me in the past:
 | **Production Line Techniques** | Improving how robots integrate into manufacturing workflows, from sequential assembly to adaptive, autonomous production cells. |
 | **Safety and Security** | Ensuring safe human-robot collaboration and protecting manufacturing systems from unauthorized access and operational failures. |
 
-### Example Tweet
-
-Tweet from an actual customer
-
-        "Robots just completed their first full production run without supervision. Night shift. Zero defects. I'm not used to manufacturing going THIS smoothly."
-
 ### Example Roadmap Slide
 | Investment Theme | Previous Release | In Development | Next Quarter | Future |
 |-----------------|------------------|----------------|--------------|---------|
@@ -151,17 +153,13 @@ Tweet from an actual customer
 | **Production Line Techniques** | • Sequential task execution | • Parallel processing workflows<br>• Real-time defect detection<br>• Adaptive scheduling | • Just-in-time manufacturing support<br>• Predictive maintenance triggers | • Fully autonomous production cells<br>• Self-optimizing workflows<br>• Demand-responsive manufacturing |
 | **Safety and Security** | • Emergency stop protocols<br>• Physical safety barriers | • Collaborative workspace safety | • Human intent prediction<br>• Encrypted control protocols<br>• Regulatory compliance automation | • Zero-trust architecture<br>• Behavioral anomaly detection<br>• Supply chain security validation |
 
-The basic organization of the roadmap area of the deck breaks things down into this progression, because not only is Biz Dev often pretty bad at Product Management, but the customers we're talking to usually aren't used to thinking this way. If you walk them through it, usually I've gotten a pretty positive response:
+The basic organization of a roadmap deck breaks things down into a progression, because customers usually aren't used to thinking this way. If you walk them through it, usually I've gotten a pretty positive response.
 
-### Simple Roadmap Story
-1. Here's a slide or two to make sure y'all remember the high-level value of our product (you spend less time doing something, something becomes self service, you can do something you were never able to do before, etc). We all agree that's why you're interested in the product overall, right?
-2. Here's a list of your favorite features that you're dying to ask me about. I have them all cataloged, I get it. (So calm down, I'll get you there. But I'm not going to put dates next to each of these items.)
-3. Here's how I cluster all these random "requirements" into themes; ie, areas of investment that our team concentrates year-over-year. (This is the alignment portion, the Product over all is going --> this way, is that what you want, too?)
-4. Here's a wall of words that shows you how much thinking we've put into the product already. These themes break down into many dozens of features each; so please stare at this wall as an example of how much thinking we do (so that you'll pay us a lot of money)
-5. And here's the customer tweet, this is what you want too, right? This should reflect/remind the value statement covered in point #1 (I forgot to show you this slide)
-6. [and finally a lightweight version of the kanban roadmap, like I drew on the whiteboard, organized by investment theme]
-
-Hope that helps, hope that makes sense.
+### Simple Roadmap Conversation
+1. Value statement: Here's the value proposition (you spend less time doing something, something you were never able to do before, etc). We all agree that's why you're interested in the product, right?
+1. Proof point: Here's a real customer's tweet, this is what you want too? (This should reflect/remind the value statement covered in point #1)
+1. OK, here's what we think is necessary for success - we focus on these core product values. Do you share these same values, is there something you'd expect here?
+1. [and finally a lightweight version of the kanban roadmap, like I drew on the whiteboard, organized by investment theme]
 
 For inspiration, look no further than the [Jordan Belfort's explanation of how to sell a pen][sell-me-this-pen] "now, the pen is a like a euphism for any product."
 
