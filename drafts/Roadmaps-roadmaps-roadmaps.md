@@ -38,8 +38,8 @@ kanban
     differentation["2: No solution exists (differentiation)"]
     nice["1: Nice to have / Workaround exists"]
   col5["**1x** Improves user adoption"]
-    frequent["3: Affects developer/admin daily"]
-    occasional["2: Happens infrequently"]
+    frequent["3: Improves users' daily lives"]
+    occasional["2: Happens occasionally"]
     edgeCase["1: Edge case"]
     never["0: Never"]
 ```
