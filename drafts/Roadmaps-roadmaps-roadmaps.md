@@ -17,7 +17,7 @@ Let’s unpack this. Each of these roadmap isn’t an artifact, so much as it is
 
 Tool: Spreadsheet
 
-Quantitative roadmap should be Product Manager Lesson #1. Good product managers are nearly always swimming in data. That data can be twisted to support nearly any agenda. If there isn’t a consistent formula to compare all of the things the team could do, then over time, the data loses credibility because it's clear that the product manager is biased, and only collects data which supports their agenda.
+Quantitative roadmap should be Product Manager Lesson #1[^1]. Good product managers are nearly always swimming in data. That data can be twisted to support nearly any agenda. If there isn’t a consistent formula to compare all of the things the team could do, then over time, the data loses credibility because it's clear that the product manager is biased, and only collects data which supports their agenda.
 
 Enter the quantitative roadmap. This allows you to apply weights to desires, based on an easily-understood formula, so that consumers of the roadmap can see the care and effort the PM has put into assembling an impartial scoring of all of the possible initiatives. The resulting ranking gives us all a good idea of what the most important things could be, but more importantly, allow us to discard the many things with relatively low scores. As mentioned in the book Farther, Faster and with Far Less Drama, giving ourselves permission not to constantly reanalyze low-priority items frees us to focus on the most important things.
 
@@ -58,7 +58,7 @@ These weights are very generic. You can use them as-is, or you can choose what f
 | Rules of Ping Pong introductory video | 0 | 0 | 0 | 2 | 2 |
 | Internet-connected table tracks # of ball-hits per rally | 0 | 0 | 2 | 0 | 4 |
 
-
+[^1]: I first learned this roadmapping technique from Shannon Coen, and it was codified by Ray Ranga at Hashicorp.
 
 ## Kanban-style Roadmap
 
