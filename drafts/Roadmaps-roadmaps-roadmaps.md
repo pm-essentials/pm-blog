@@ -23,20 +23,34 @@ Enter the quantitative roadmap. This allows you to apply weights to desires, bas
 
 Example ping pong supplier:
 
+| Problem | **4x** Strategic initiatives | **3x** Customer commitments | **2x** Impact | **1x** Improves user adoption | Priority |
+|---------|---------------------|-------------------------|-------------------------------|------------------------|----------|
+| Digital score-keeping display | 0 | 0 | 1 | 0 | 2 |
+| Competition-level table surfaces | 0 | 2 | 0 | 0 | 6 |
+| Paddle surfaces have 5 levels of stickiness | 0 | 0 | 3 | 0 | 6 |
+| Paddles locatable via AirTag integration | 2 | 0 | 0 | 0 | 8 |
+| Rules of Ping Pong introductory video | 0 | 0 | 0 | 2 | 2 |
+| Internet-connected table tracks # of ball-hits per rally | 0 | 0 | 2 | 0 | 4 |
+
 ```mermaid
 kanban
-  col0["**50x** Customer commitments"]
-    surface["Competition-level table surfaces"]
-  col1["**20x** Announced at conferences"]
-    display["Digital score-keeping display"]
-  col2["**10x** Competition has (tablestakes)"]
-    paddles["Paddle surfaces have 5 levels of stickiness"]
-  col4["**5x** Competition does **not** have (competitive advantage)"]
-    airtag["Paddles locatable via AirTag integration"]
-  col5["**2x** Improves user adoption"]
-    ftue["Rules of Ping Pong introductory video"]
-  col6["**1x** Nice to have"]
-    inet["Internet-connected table tracks # of ball-hits per rally"]
+  col0["**4x** Strategic initiatives"]
+    commit["3: Customer commit by exec"]
+    conference["2: Announced at conference"]
+    caprice["1: Mandated project"]
+  col1["**3x** Customer commitments"]
+    closer["3: Needed to close a deal / Loses revenue"]
+    poc["2: Needed for POC"]
+    req["1: Requested by potential customer"]
+  col2["**2x** Impact"]
+    tablestakes["3: Competition has (tablestakes)"]
+    differentation["2: No solution exists (differentiation)"]
+    nice["1: Nice to have / Workaround exists"]
+  col5["**1x** Improves user adoption"]
+    frequent["3: Affects developer/admin daily"]
+    occasional["2: Happens infrequently"]
+    edgeCase["1: Edge case"]
+    never["0: Never"]
 ```
 
 These weights are very generic. You can use them as-is, or you need to choose what formula makes sense for you. In a recent example from my history, the ranking of an OSS model on a leaderboard affects its prioritization - we only have so much capacity to optimize models, we might as well spend that time working on the most popular.
