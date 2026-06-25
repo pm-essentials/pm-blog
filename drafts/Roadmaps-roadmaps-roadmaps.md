@@ -159,7 +159,7 @@ The basic organization of a roadmap deck breaks things down into a progression, 
 1. Value statement: Here's the value proposition (you spend less time doing something, something you were never able to do before, etc). We all agree that's why you're interested in the product, right?
 1. Proof point: Here's a real customer's tweet, this is what you want too? (This should reflect/remind the value statement covered in point #1)
 1. OK, here's what we think is necessary for success - we focus on these core product values. Do you share these same values, is there something you'd expect here?
-1. [and finally a lightweight version of the kanban roadmap, like I drew on the whiteboard, organized by investment theme]
+1. [and finally a lightweight version of the kanban roadmap, organized by investment theme]
 
 For inspiration, look no further than the [Jordan Belfort's explanation of how to sell a pen][sell-me-this-pen] "now, the pen is a like a euphism for any product."
 
