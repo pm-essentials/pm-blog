@@ -126,7 +126,24 @@ Try to avoid creating a, "roadmap slide." People ask for this all the time, but 
 
 A roadmap meeting is a place to articulate your product's general direction by sharing your track-record so far and where you are planning to go. The goal of the meeting is for the user to decide if their needs are aligned with your goals, and to feel special that they can give you feedback on what's coming soon, to better suit their needs. When everything works well, a roadmap meeting turns into an opportunity to identify anchor customers, and cite them as high-likelihood to adopt the product in the future.
 
-[TODO] Here's a progression that has worked well for me in the past.
+Here's a progression that has worked well for me in the past:
+
+### Example Investment Themes Slide
+
+| Investment Theme | Description |
+|-----------------|-------------|
+| **Tool Use** | Expanding the range of manufacturing tools robots can operate, from basic grippers to specialized equipment like welders and precision instruments. |
+| **Robot Mobility** | Enabling robots to navigate factory floors, coordinate with other robots, and access hard-to-reach production areas. |
+| **Production Line Techniques** | Improving how robots integrate into manufacturing workflows, from sequential assembly to adaptive, autonomous production cells. |
+| **Safety and Security** | Ensuring safe human-robot collaboration and protecting manufacturing systems from unauthorized access and operational failures. |
+
+### Example Roadmap Slide
+| Investment Theme | Previous Release | In Development | Next Quarter | Future |
+|-----------------|------------------|----------------|--------------|---------|
+| **Tool Use** | • Basic gripper integration<br>• Support for standard screwdrivers | • Multi-tool quick-change system<br>• Welding torch attachment | • Advanced material handling (fabric, wire)<br>• Pneumatic tool integration<br>• Custom end-effector SDK | • AI-driven tool selection<br>• Soft robotics for delicate assembly<br>• Self-calibrating tool wear detection |
+| **Robot Mobility** | • Fixed-position arm articulation<br>• 6-axis movement control<br>• Collision detection | • Mobile base with navigation<br>• Autonomous path planning | • Vertical mobility (climbing, stairs)<br>• Confined space navigation | • Swarm coordination<br>• Outdoor terrain adaptation<br>• Zero-g manufacturing support |
+| **Production Line Techniques** | • Sequential task execution | • Parallel processing workflows<br>• Real-time defect detection<br>• Adaptive scheduling | • Just-in-time manufacturing support<br>• Predictive maintenance triggers | • Fully autonomous production cells<br>• Self-optimizing workflows<br>• Demand-responsive manufacturing |
+| **Safety and Security** | • Emergency stop protocols<br>• Physical safety barriers | • Collaborative workspace safety | • Human intent prediction<br>• Encrypted control protocols<br>• Regulatory compliance automation | • Zero-trust architecture<br>• Behavioral anomaly detection<br>• Supply chain security validation |
 
 [TODO] a tweet from an actual customer, "... upgrades in prod on a holiday weekend .. That has never happened in my entire career ... Just watched the pipes do what they do"
 
